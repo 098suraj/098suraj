@@ -12,7 +12,7 @@
 ### Hey devs <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" width="29px" style="max-width: 100%;">
 👨🏼‍💻I'm Dev
 Android Developer Kotlin & Java
-Brief about me, I'm an Android dev in both languages [Java and Kotlin] , I'm exploring this field for some time now and I'm also Android Mentor at Innogeeks (Student Driven technical College  Club ) .
+Brief about me, I'm an Android dev in both languages [Java and Kotlin] , I'm exploring this field for some time now and I'm also Android Mentor at Innogeeks (Student Driven Technical Club ) .
 
 I have a great ambition to continue developing my skills and aspire to work in a collaborative environment. I work on all aspects of the development lifecycle.
 
