@@ -61,7 +61,7 @@ object Shukla{
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Contacts Me
 <div align="center">
 <a href="mailto: 098suraj@gmail.com"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="www.linkedin.com/in/suraj-shukla-a0b6b4206"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/suraj-shukla-a0b6b4206/"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  </div>
  
  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px>
